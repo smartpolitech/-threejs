@@ -1,0 +1,31 @@
+{
+"Edificio": [
+	{ "nombreFichero":"AUL011.js" , "habitacion":"AUL011", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"AUL012.js" , "habitacion":"AUL012", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"AUL013.js" , "habitacion":"AUL013", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"AUL018.js" , "habitacion":"AUL018", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"AUL019.js" , "habitacion":"AUL019", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"AUL020.js" , "habitacion":"AUL020", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"BASE.js" , "habitacion":"BASE", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"COM001.js" , "habitacion":"COM001", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"COM002.js" , "habitacion":"COM002", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"COM004.js" , "habitacion":"COM004", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"COM016.js" , "habitacion":"COM016", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"COM017.js" , "habitacion":"COM017", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"COM026.js" , "habitacion":"COM026", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"CUA003.js" , "habitacion":"CUA003", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"DES005.js" , "habitacion":"DES005", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"DES006.js" , "habitacion":"DES006", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"DES007.js" , "habitacion":"DES007", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"DES008.js" , "habitacion":"DES008", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"DES009.js" , "habitacion":"DES009", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"DES010.js" , "habitacion":"DES010", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"DES021.js" , "habitacion":"DES021", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"DES022.js" , "habitacion":"DES022", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"DES023.js" , "habitacion":"DES023", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"DES024.js" , "habitacion":"DES024", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"DES025.js" , "habitacion":"DES025", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"SEM014.js" , "habitacion":"SEM014", "edificio":"ATE", "planta":"P01" },
+	{ "nombreFichero":"SEM015.js" , "habitacion":"SEM015", "edificio":"ATE", "planta":"P01" }
+]
+}

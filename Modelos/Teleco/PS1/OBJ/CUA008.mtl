@@ -1,0 +1,25 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _Tile_Ceramic_Natural_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.741176 0.631373 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd CUA008/_Tile_Ceramic_Natural_15.jpg
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.690196 0.800000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_D03
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.898039 0.623529
+Ks 0.330000 0.330000 0.330000
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+

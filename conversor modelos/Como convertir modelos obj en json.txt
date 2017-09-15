@@ -1,0 +1,5 @@
+Para convertir modelos, hay que instalar python y ejecutar la siguiente orden:
+
+python convert_obj_three_for_python3.py -i origen.obj -o salida.js
+
+O simplemente ejecutar el convertidorModelos.exe y ya convierte todos los obj en js y además crea el fichero de datos

@@ -1,0 +1,12 @@
+Carpetas:
+conversor modelos: Conversor para modelos OBJ a JS
+Figuras Documentación: Imágenes utilizadas para las figuras de la memoria
+Modelos: Modelos de Sketchup utilizados
+proyecto: Aplicaciones cliente y servidor desarrolladas para el PFC. Para ejecutar el proyecto, basta con ir a la carpeta a través de la consola y ejecutar el comando "npm start". Se debe tener instalado node.js en la máquina donde se vaya a ejecutar. Una vez ejecutado el comando, para visualizar la aplicación hay que ir a la url localhost:3977.
+
+Ficheros:
+Diagramas.fla: Diagramas utilizados en la memoria
+Memomria.docx: Memoria desarrollada en Word
+PFC_II_5726_2017.pdf: Memoria en formato PDF para leer
+planos.pdf: Planos originales en los que se ha basado la estructura de SmartPoligraph
+Sensores.docx: Listado se sensores utilizados en el desarrollo
